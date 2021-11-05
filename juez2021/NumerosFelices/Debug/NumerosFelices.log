@@ -1,0 +1,5 @@
+﻿  NumerosFelices.cpp
+C:\Users\Usuario\Desktop\juez2021\NumerosFelices\NumerosFelices.cpp(21,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\juez2021\NumerosFelices\NumerosFelices.cpp(30,15): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\juez2021\NumerosFelices\NumerosFelices.cpp(37,23): warning C4018: '<': no coinciden signed/unsigned
+  NumerosFelices.vcxproj -> C:\Users\Usuario\Desktop\juez2021\Debug\NumerosFelices.exe

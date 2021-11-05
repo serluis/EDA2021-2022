@@ -1,0 +1,5 @@
+﻿  ElementoPerdido.cpp
+C:\Users\Usuario\Desktop\juez2021\ElementoPerdido\ElementoPerdido.cpp(54,20): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\juez2021\ElementoPerdido\ElementoPerdido.cpp(55,33): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\juez2021\ElementoPerdido\ElementoPerdido.cpp(46): warning C4715: 'resolver': no todas las rutas de acceso de control devuelven un valor
+  ElementoPerdido.vcxproj -> C:\Users\Usuario\Desktop\juez2021\Debug\ElementoPerdido.exe

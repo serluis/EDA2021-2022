@@ -1,0 +1,36 @@
+﻿  ReordenCola.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(694,82): error C2440: 'inicializando': no se puede realizar la conversión de 'initializer list' a '_Objty'
+          with
+          [
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(694,82): message : El inicializador contiene demasiados elementos
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\deque(804): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,int&>(_Alloc &,_Objty *const ,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &&,int &)" que se está compilando
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\deque(807): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,int&>(_Alloc &,_Objty *const ,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &&,int &)" que se está compilando
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\deque(830): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::deque<int,std::allocator<int>>::emplace_front<_Ty,int&>(_Ty &&,int &)" que se está compilando
+          with
+          [
+              _Ty=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<int>>>
+          ]
+C:\Users\Usuario\Desktop\juez2021\ReordenCola\ReordenCola.cpp(24): message : Vea la referencia a la creación de una instancia de la función plantilla "std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> std::deque<_Ty,std::allocator<_Ty>>::emplace<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,int&>(std::_Deque_const_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &&,int &)" que se está compilando
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Usuario\Desktop\juez2021\ReordenCola\ReordenCola.cpp(24): message : Vea la referencia a la creación de una instancia de la función plantilla "std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> std::deque<_Ty,std::allocator<_Ty>>::emplace<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,int&>(std::_Deque_const_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &&,int &)" que se está compilando
+          with
+          [
+              _Ty=int
+          ]
